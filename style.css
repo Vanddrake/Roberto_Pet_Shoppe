@@ -1,0 +1,25 @@
+  /* 
+  Author:   Robert Zaranek
+  Date:     April 8, 2021
+
+  Purpose:  The styling for the Robert's Pet Shoppe app.
+  */
+
+#logo {
+    margin-right: 10px;
+}
+
+.editDeletePic {
+    height: 25px;
+    width: 25px;
+    opacity: 0.5;
+}
+
+.editDeletePic:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.shoppeColor {
+    background-color: rgb(221, 235, 252);
+}
